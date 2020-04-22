@@ -1,0 +1,8 @@
+# Matching {x, y} Repetitions
+# https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem
+
+Regex_Pattern = r'^[\d]{1,2}[a-zA-Z]{3,}[\.]{0,3}$'
+
+import re
+
+print(str(bool(re.search(Regex_Pattern, input()))).lower())
