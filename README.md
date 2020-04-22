@@ -8,5 +8,4 @@ Minhas soluções para os desafios e atividades da plataforma HackerRank.
 ## TEMAS
 
 [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-
-[Minhas soluções](https://github.com/Bonfim-luiz/HackerRank/tree/master/HackerRank_30_Days_of_Cod)
+[- Soluções](https://github.com/Bonfim-luiz/HackerRank/tree/master/HackerRank_30_Days_of_Cod)
