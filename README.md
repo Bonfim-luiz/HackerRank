@@ -8,7 +8,7 @@ O HackerRank é um portal com conteúdos e desafios de programação onde você 
 ## TEMAS
 
 [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-[- Soluções](https://github.com/Bonfim-luiz/HackerRank/tree/master/HackerRank_30_Days_of_Cod)
+[- Soluções](https://github.com/Bonfim-luiz/HackerRank/tree/master/HackerRank_30_Days_of_Code)
 
 
 [Regex](https://www.hackerrank.com/domains/regex)
