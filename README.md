@@ -4,19 +4,19 @@
 O HackerRank é um portal com conteúdos e desafios de programação para auxiliar no aprendizado tecnológico. 
 No site é possível encontrar diversos temas, tais como:
 
-Algoritmos;
+- Algoritmos;
 
-Inteligência Artificial;
+- Inteligência Artificial;
 
-SQL;
+- SQL;
 
-Banco de Dados;
+- Banco de Dados;
 
-C++;
+- C++;
 
-Ente outras.
+- Ente outras.
 
-Neste repositório está disponível todas as minhas soluções separadas por temas.
+Neste repositório estão disponíveis todas as minhas soluções separadas por temas.
 
 [Consulte aqui meu perfil HackerRank](https://www.hackerrank.com/bonfim_luiz?hr_r=1)
 
