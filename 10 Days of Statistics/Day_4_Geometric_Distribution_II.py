@@ -12,8 +12,7 @@ while n > 0:
     n = n - 1
 print(round(resultado,3))
 
-# Automatizando o resultado
-
+# Automatizando a entrada
 n = int(input())
 entrada = list(map(int,input().split()))
 p = entrada[0]/entrada[1]
